@@ -769,3 +769,6 @@ h1, h2, h3, h4, h5, h6 {
 .project-title a {
     color: #000 !important;
 }
+#sortable-view .ibox-content{
+    min-height: 200px;
+}
