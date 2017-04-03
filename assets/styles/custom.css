@@ -432,6 +432,12 @@ img.img-thumbnail {
     color: #FFFFFF !important;
 }
 
+.btn-warning {
+  background-color: #f8ac59;
+  border-color: #f8ac59;
+  color: #FFFFFF !important;
+}
+
 /*slider*/
 #main {
   width: 700px;
@@ -771,4 +777,23 @@ h1, h2, h3, h4, h5, h6 {
 }
 #sortable-view .ibox-content{
     min-height: 200px;
+}
+.list-group-item {
+    background-color: inherit;
+    margin-bottom: 8px !important;
+    border: 1px solid #e7eaec;
+    display: block;
+    padding: 10px 15px;
+    position: relative;
+}
+.list-group-item {
+    background-color: inherit;
+    margin-bottom: 8px !important;
+    border: 1px dashed #1ab394;
+    display: block;
+    padding: 10px 15px;
+    position: relative;
+}
+.m-auto{
+    margin:auto;
 }
