@@ -797,3 +797,7 @@ h1, h2, h3, h4, h5, h6 {
 .m-auto{
     margin:auto;
 }
+.select2-container .select2-selection--multiple {
+    min-height: 30px !important;
+    border-radius:0px !important; 
+}
